@@ -10,7 +10,11 @@ The game board is a 480x320 pixel canvas. The player controls a paddle at the bo
 
 ## How to Run
 
-To run the game, simply open the `breakout.html` file in your web browser. The game will start immediately.
+To run the game locally, simply open the `breakout.html` file in your web browser. The game will start immediately.
+
+To run the game on GitHub Pages, click the button below:
+
+[Play Breakout](https://wechulisimiyu.me/breakout.html)
 
 ## Dependencies
 
