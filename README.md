@@ -14,7 +14,7 @@ To run the game locally, simply open the `breakout.html` file in your web browse
 
 To run the game on GitHub Pages, click the button below:
 
-[Play Breakout](https://wechulisimiyu.me/breakout.html)
+[Play Breakout](https://wechulisimiyu.me/breakout/breakout.html)
 
 ## Dependencies
 
